@@ -1,4 +1,7 @@
-32222222222222222222222222222
-222222222222
-22
-2`
+mkdir myproject
+cd myproject
+git init
+
+git remote add origin git@github.com:crazysnov/myproject.git
+git push -u origin master
+
